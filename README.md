@@ -51,10 +51,12 @@ This project showcases how raw data can be transformed into meaningful insights 
 By applying data cleaning, modeling, and visualization techniques, this dashboard provides a clear understanding of the underlying trends and KPIs.  
 
 The workflow demonstrates:
+- This dashboard clearly shows the main      KPIs like total performance, trends, and   category-wise results.
+- It shows the performance of the best-      selling and worst-selling items.
 - Efficient SQL-based data preparation  
 - Strong data modeling using relationships and DAX  
 - Professional Power BI dashboard design  
-- A complete end-to-end analytics pipeline  
+
 
 This repository can serve as a portfolio project, learning reference, or a template for future analytics dashboards.
 
