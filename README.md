@@ -24,6 +24,10 @@ A complete end-to-end Data Analytics project using SQL for data cleaning and Pow
 
 ## 📸 Dashboard Preview
  ([screenshots/dashboard_preview.png](https://github.com/NishantKSinha/Pizza-Sales-Report/blob/main/Best%20Seller%20%26%20Worst%20Seller.png))
+ <p align="center">
+  <img src="https://github.com/NishantKSinha/Pizza-Sales-Report/blob/main/Best%20Seller%20%26%20Worst%20Seller.png" alt="Dashboard Preview" width="650">
+</p>
+
 
 ---
 
