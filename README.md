@@ -58,5 +58,3 @@ The workflow demonstrates:
 - Professional Power BI dashboard design  
 
 
-This repository can serve as a portfolio project, learning reference, or a template for future analytics dashboards.
-
