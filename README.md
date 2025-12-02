@@ -1,7 +1,10 @@
 # 📊 Power BI & SQL | End-to-End Data Analytics Project
 
-A complete end-to-end Data Analytics project using SQL for data cleaning and Power BI for data modeling and dashboard creation. Converts raw data into actionable insights through interactive visualizations.
-
+This Power BI dashboard visualizes the cleaned and transformed dataset through clear KPIs, trend charts, and interactive filters.  
+It highlights key performance metrics, identifies important patterns, and helps users explore data from multiple perspectives.  
+Built with a structured data model and DAX measures, the dashboard provides accurate and insightful analytics.  
+Designed for simplicity and clarity, it turns raw data into meaningful business insights.  
+You can explore the full dashboard using the provided `.pbix` file or the published Power BI link.
 ---
 
 ## 🚀 Features
@@ -23,9 +26,11 @@ A complete end-to-end Data Analytics project using SQL for data cleaning and Pow
 ---
 
 ## 📸 Dashboard Preview
- ([screenshots/dashboard_preview.png](https://github.com/NishantKSinha/Pizza-Sales-Report/blob/main/Best%20Seller%20%26%20Worst%20Seller.png))
  <p align="center">
-  <img src="https://github.com/NishantKSinha/Pizza-Sales-Report/blob/main/Best%20Seller%20%26%20Worst%20Seller.png" alt="Dashboard Preview" width="650">
+  <img src="https://github.com/NishantKSinha/Pizza-Sales-Report/blob/main/Overall%20Report.png" alt="Dashboard Preview" width="1000">
+</p>
+ <p align="center">
+  <img src="https://github.com/NishantKSinha/Pizza-Sales-Report/blob/main/Best%20Seller%20%26%20Worst%20Seller.png" alt="Dashboard Preview" width="1000">
 </p>
 
 
@@ -37,4 +42,19 @@ A complete end-to-end Data Analytics project using SQL for data cleaning and Pow
 2. Open in **Power BI Desktop**  
 3. Refresh the dataset (if needed)  
 4. Explore the dashboard
+
+
+
+## 🏁 Conclusion
+
+This project showcases how raw data can be transformed into meaningful insights using SQL and Power BI.  
+By applying data cleaning, modeling, and visualization techniques, this dashboard provides a clear understanding of the underlying trends and KPIs.  
+
+The workflow demonstrates:
+- Efficient SQL-based data preparation  
+- Strong data modeling using relationships and DAX  
+- Professional Power BI dashboard design  
+- A complete end-to-end analytics pipeline  
+
+This repository can serve as a portfolio project, learning reference, or a template for future analytics dashboards.
 
